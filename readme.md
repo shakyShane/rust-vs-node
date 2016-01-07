@@ -5,4 +5,4 @@ cargo build
 ./bench.sh
 ```
 
-I see node being 10x faster for `100` loops over the nearly `3000` char file, why?
+I see `rust` being approx 7x faster for `100` loops over the nearly `3000` char file.
