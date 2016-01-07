@@ -6,3 +6,5 @@ cargo build
 ```
 
 I see `rust` being approx 7x faster for `100` loops over the nearly `3000` char file.
+
+![bench](http://i.imgur.com/t0n4Tmh.png)
